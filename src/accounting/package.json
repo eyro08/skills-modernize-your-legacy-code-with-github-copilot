@@ -1,0 +1,14 @@
+{
+  "name": "legacy-accounting-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "In-memory console accounting application migrated from COBOL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
